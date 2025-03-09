@@ -1,0 +1,4 @@
+This dataset was obtained from Kaggle (https://www.kaggle.com/datasets).
+The dataset I used is Well-being of Women in 52 Countries (https://www.kaggle.com/datasets/konradb/wellbeing-of-women-in-52-countries)
+I have applied heirachical clustering and Guassian Mixture Models to segment women's Health data to generate persoanlised healthcare recommendations.
+The files I worked on in this dataset include the livwell_lin_interpolated.csv indicators.csv files.
