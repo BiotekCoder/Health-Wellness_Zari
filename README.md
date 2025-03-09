@@ -15,9 +15,6 @@ The dataset is segmented into two clusters:
 1. Cluster 0: High fertility rate, low GDP per capita.
 2. Cluster 1: Low fertility rate, high GDP per capita.
 ![heirarachical_clustering](https://github.com/user-attachments/assets/0ff32328-7e8d-4a02-aac3-d2b017eb6a49)
-![bar_graph](https://github.com/user-attachments/assets/71942699-cf01-4f14-b075-ea395f7dce3b)
-
-
 
 
 
@@ -36,3 +33,4 @@ Cluster 1 (Low Fertility, High GDP)
 -  Improve access to specialized healthcare services**.
 
 ![Figure_1](https://github.com/user-attachments/assets/8277060b-a5ff-41d1-8a14-f6813d478b5b)
+![bar_graph](https://github.com/user-attachments/assets/71942699-cf01-4f14-b075-ea395f7dce3b)
